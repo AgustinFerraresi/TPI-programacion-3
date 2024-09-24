@@ -1,0 +1,6 @@
+@TpiProgramacion3_HostAddress = http://localhost:5252
+
+GET {{TpiProgramacion3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
