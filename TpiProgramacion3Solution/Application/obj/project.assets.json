@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\agust\\source\\TPI-programacion-3\\TpiProgramacion3\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\agust\\source\\TpiProg3\\TPI-programacion-3\\TpiProgramacion3Solution\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\agust\\source\\TPI-programacion-3\\TpiProgramacion3\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\agust\\source\\TpiProg3\\TPI-programacion-3\\TpiProgramacion3Solution\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\agust\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\agust\\source\\TPI-programacion-3\\TpiProgramacion3\\Application\\obj\\",
+      "outputPath": "C:\\Users\\agust\\source\\TpiProg3\\TPI-programacion-3\\TpiProgramacion3Solution\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\agust\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\agust\\source\\TPI-programacion-3\\TpiProgramacion3\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\agust\\source\\TPI-programacion-3\\TpiProgramacion3\\Domain\\Domain.csproj"
+            "C:\\Users\\agust\\source\\TpiProg3\\TPI-programacion-3\\TpiProgramacion3Solution\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\agust\\source\\TpiProg3\\TPI-programacion-3\\TpiProgramacion3Solution\\Domain\\Domain.csproj"
             }
           }
         }

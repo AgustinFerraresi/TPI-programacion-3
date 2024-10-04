@@ -1,10 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\agust\\source\\TPI-programacion-3\\TpiProgramacion3\\",
+  "WorkspaceRootPath": "C:\\Users\\agust\\source\\TpiProg3\\TPI-programacion-3\\TpiProgramacion3Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE6295D7-232F-48B7-BBD5-442BAB67B5C7}|Domain\\Domain.csproj|c:\\users\\agust\\source\\tpi-programacion-3\\tpiprogramacion3\\domain\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE6295D7-232F-48B7-BBD5-442BAB67B5C7}|Domain\\Domain.csproj|solutionrelative:domain\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4044F21-EAE3-479A-B8FF-967D8C224B73}|Application\\Application.csproj|c:\\users\\agust\\source\\tpiprog3\\tpi-programacion-3\\tpiprogramacion3solution\\application\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4044F21-EAE3-479A-B8FF-967D8C224B73}|Application\\Application.csproj|solutionrelative:application\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9DF690-FE3E-492C-A43B-14E885BD0511}|Infrastructure\\Infrastructure.csproj|c:\\users\\agust\\source\\tpiprog3\\tpi-programacion-3\\tpiprogramacion3solution\\infrastructure\\data\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9DF690-FE3E-492C-A43B-14E885BD0511}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61985490-42BE-4A8F-BBA6-B911F8B345AA}|TpiProgramacion3\\Web.csproj|c:\\users\\agust\\source\\tpiprog3\\tpi-programacion-3\\tpiprogramacion3solution\\tpiprogramacion3\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61985490-42BE-4A8F-BBA6-B911F8B345AA}|TpiProgramacion3\\Web.csproj|solutionrelative:tpiprogramacion3\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61985490-42BE-4A8F-BBA6-B911F8B345AA}|TpiProgramacion3\\Web.csproj|c:\\users\\agust\\source\\tpiprog3\\tpi-programacion-3\\tpiprogramacion3solution\\tpiprogramacion3\\controllers\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61985490-42BE-4A8F-BBA6-B911F8B345AA}|TpiProgramacion3\\Web.csproj|solutionrelative:tpiprogramacion3\\controllers\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9DF690-FE3E-492C-A43B-14E885BD0511}|Infrastructure\\Infrastructure.csproj|c:\\users\\agust\\source\\tpiprog3\\tpi-programacion-3\\tpiprogramacion3solution\\infrastructure\\data\\driverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9DF690-FE3E-492C-A43B-14E885BD0511}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\driverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4044F21-EAE3-479A-B8FF-967D8C224B73}|Application\\Application.csproj|c:\\users\\agust\\source\\tpiprog3\\tpi-programacion-3\\tpiprogramacion3solution\\application\\services\\driverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4044F21-EAE3-479A-B8FF-967D8C224B73}|Application\\Application.csproj|solutionrelative:application\\services\\driverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4044F21-EAE3-479A-B8FF-967D8C224B73}|Application\\Application.csproj|c:\\users\\agust\\source\\tpiprog3\\tpi-programacion-3\\tpiprogramacion3solution\\application\\interfaces\\idriverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4044F21-EAE3-479A-B8FF-967D8C224B73}|Application\\Application.csproj|solutionrelative:application\\interfaces\\idriverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6295D7-232F-48B7-BBD5-442BAB67B5C7}|Domain\\Domain.csproj|c:\\users\\agust\\source\\tpiprog3\\tpi-programacion-3\\tpiprogramacion3solution\\domain\\interfaces\\idriverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6295D7-232F-48B7-BBD5-442BAB67B5C7}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\idriverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,21 +41,106 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 380,
+          "DockedWidth": 693,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\agust\\source\\TPI-programacion-3\\TpiProgramacion3\\Domain\\Classes\\User.cs",
-              "RelativeDocumentMoniker": "Domain\\Classes\\User.cs",
-              "ToolTip": "C:\\Users\\agust\\source\\TPI-programacion-3\\TpiProgramacion3\\Domain\\Classes\\User.cs",
-              "RelativeToolTip": "Domain\\Classes\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "C:\\Users\\agust\\source\\TpiProg3\\TPI-programacion-3\\TpiProgramacion3Solution\\Application\\Services\\VehicleService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\VehicleService.cs",
+              "ToolTip": "C:\\Users\\agust\\source\\TpiProg3\\TPI-programacion-3\\TpiProgramacion3Solution\\Application\\Services\\VehicleService.cs",
+              "RelativeToolTip": "Application\\Services\\VehicleService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T02:10:20.597Z",
+              "WhenOpened": "2024-10-02T20:39:49.115Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\agust\\source\\TpiProg3\\TPI-programacion-3\\TpiProgramacion3Solution\\TpiProgramacion3\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "TpiProgramacion3\\Controllers\\VehicleController.cs",
+              "ToolTip": "C:\\Users\\agust\\source\\TpiProg3\\TPI-programacion-3\\TpiProgramacion3Solution\\TpiProgramacion3\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "TpiProgramacion3\\Controllers\\VehicleController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:23:42.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DriverController.cs",
+              "DocumentMoniker": "C:\\Users\\agust\\source\\TpiProg3\\TPI-programacion-3\\TpiProgramacion3Solution\\TpiProgramacion3\\Controllers\\DriverController.cs",
+              "RelativeDocumentMoniker": "TpiProgramacion3\\Controllers\\DriverController.cs",
+              "ToolTip": "C:\\Users\\agust\\source\\TpiProg3\\TPI-programacion-3\\TpiProgramacion3Solution\\TpiProgramacion3\\Controllers\\DriverController.cs",
+              "RelativeToolTip": "TpiProgramacion3\\Controllers\\DriverController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:23:37.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\agust\\source\\TpiProg3\\TPI-programacion-3\\TpiProgramacion3Solution\\Infrastructure\\Data\\VehicleRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\VehicleRepository.cs",
+              "ToolTip": "C:\\Users\\agust\\source\\TpiProg3\\TPI-programacion-3\\TpiProgramacion3Solution\\Infrastructure\\Data\\VehicleRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\VehicleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:14:36.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDriverRepository.cs",
+              "DocumentMoniker": "C:\\Users\\agust\\source\\TpiProg3\\TPI-programacion-3\\TpiProgramacion3Solution\\Domain\\Interfaces\\IDriverRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IDriverRepository.cs",
+              "ToolTip": "C:\\Users\\agust\\source\\TpiProg3\\TPI-programacion-3\\TpiProgramacion3Solution\\Domain\\Interfaces\\IDriverRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IDriverRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:12:29.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DriverRepository.cs",
+              "DocumentMoniker": "C:\\Users\\agust\\source\\TpiProg3\\TPI-programacion-3\\TpiProgramacion3Solution\\Infrastructure\\Data\\DriverRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\DriverRepository.cs",
+              "ToolTip": "C:\\Users\\agust\\source\\TpiProg3\\TPI-programacion-3\\TpiProgramacion3Solution\\Infrastructure\\Data\\DriverRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\DriverRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAwwBUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:12:23.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDriverService.cs",
+              "DocumentMoniker": "C:\\Users\\agust\\source\\TpiProg3\\TPI-programacion-3\\TpiProgramacion3Solution\\Application\\Interfaces\\IDriverService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IDriverService.cs",
+              "ToolTip": "C:\\Users\\agust\\source\\TpiProg3\\TPI-programacion-3\\TpiProgramacion3Solution\\Application\\Interfaces\\IDriverService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IDriverService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:11:25.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DriverService.cs",
+              "DocumentMoniker": "C:\\Users\\agust\\source\\TpiProg3\\TPI-programacion-3\\TpiProgramacion3Solution\\Application\\Services\\DriverService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\DriverService.cs",
+              "ToolTip": "C:\\Users\\agust\\source\\TpiProg3\\TPI-programacion-3\\TpiProgramacion3Solution\\Application\\Services\\DriverService.cs",
+              "RelativeToolTip": "Application\\Services\\DriverService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAqwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:10:10.046Z"
             }
           ]
         }
